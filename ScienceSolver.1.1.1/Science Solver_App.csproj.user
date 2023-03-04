@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BasicCalculate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Chemistry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Equation_FirstDegree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Equation_FourthDegree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HighLevelCalculate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Introduce ScienceSolver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Introduce_ScienceSolver_Usage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Calculating_Matrix.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Matrix_1_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Matrix_1_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Matrix_1_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Matrix_2_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Matrix_2_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Matrix_2_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Matrix_2_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Matrix_3_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Matrix_3_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Matrix_3_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Matrix_3_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Matrix_4_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Matrix_4_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Matrix_4_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Matrix_4_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Matrix_Unary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhysicExchangeUnits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Physics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScienceSolver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mathematics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Searching Chemical Theorem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Searching Mathematics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Searching Physical Constant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchingChemicalConst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchingChemicalElements.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchingChemicalEquations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchingMathFormula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Equation_SecondeDegree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Equations_Solving.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Equation_ThirdDegree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchingPhysicalFormula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Searching_Mathematics_Theorem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Searching_Physics_Theorem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Solving_Sys_Equa_Equa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SystemOfEquation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SystemOfEquations_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SystemOfEquations_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SystemOfEquation_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vector_2_axis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vector_3_axis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

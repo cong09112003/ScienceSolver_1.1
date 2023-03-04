@@ -1,0 +1,56 @@
+﻿Algebra;A1C10;Công thức về bất đẳng thức; a>b+c <=> a-c>b 
+Algebra;A2C10;Bất đẳng thức Cosy; (a1+a2+...+an) >= sqrt((a1*a2*a3...a*n),1/n) dau bang xay ra khi a1=a2=a3...=an
+Algebra;A3C10;Bất đẳng thức chữa dấu giá trị tuyệt đối |...|; |a+b|<=|a|+|b| , ||a|+|b||<=|a-b|, dau "==" xay ra khi a*b>=0
+Algebra;A4C10;Bất đẳng thức chữa dấu ngũ hai; x^2 >= 0
+Algebra;A5C10;Bất đẳng thức thường thấy; (a^2+b^2)(x^2+y^2)>=(a*x+b*y)^2 (x,y,a,b in R)
+Algebra;A6C10;Bất đẳng thức Bunhacopski; (a(1)^2+a(2)^2+...a(n)^2)*(b(1)^2+b(2)^2+...b(n)^2)>=(a(1)*b(1)+a(2)*b(2)...a(n)*b(n))^2
+Algebra;A7C10;Bất đẳng thức thường thấy; a>b>0, c>d>0 =>ac>bd
+Algebra;A8C10;Bất đẳng thức thường thấy;a>b>0, 1/a < 1/b
+Algebra;A9C10;Bất đẳng thức thường thấy;a>b>0 => a^n>b^n (n > 0), 
+Algebra;A10C10;Bất đẳng thức thường thấy;a>b>0 => sqrt(a,n) > sqrt(b,n) ( n>=0 )
+Geometry;G1C10;Tính diện tích hình tròn; S=π*r^2
+Geometry;G2C10;Tính diện tích hình vuông; S=r^2
+Geometry;G3C10;Tính diện tích hình hình chữ nhật; S=a*b
+Geometry;G4C10;Tính diện tích hình tam giác; S=1/2*a*b*sin(C)=1/2*b*c*sin(A)=1/2*a*c*sin(B)
+Geometry;G5C10;Tính chu vi hình tròn; 2p=π*r*2
+Geometry;G6C10;Tính chu vi hình tam giác; 2p=a+b+c
+Geometry;G7C10;Tính chu vi hình vuông;2p=4*a
+Geometry;G8C10;Tính diện tích hình tam giác; S=sqrt(p*(p-a)*(p-b)*(p-c))  với p là nửa chu vi
+Geometry;G9C10;Tính chu vi hình chữ nhật:p=a+b
+Geometry;G10C11;Góc 180C; 180(c)=π (radian)
+Geometry;G2C11;Góc 1C;1C=π/180(radian) => 1 (rad) = 180/π 
+Geometry;G3C11;tan(a);tan(a)=sin(a)/cos(a)
+Geometry;G4C11;tan(a)_2;1+tan(a)^2=1/(cos(a)^2)
+Geometry;G5C11;cotan(a)_2;1+cotan(a)^2=1/(sin(a)^2)
+Geometry;G6C11;sin(a),cos(a);sin(a)^2+cos(a)^2=1
+Geometry;G7C11;hq1;sin(a)^4+cos(a)^4=1-1/2*sin(2*x)^2
+Geometry;G8C11;hq2;sin(x)^6+cos(x)^6=1-3/4*sin(2*x)^2
+Geometry;G9C11;hq3;-1<sin(x)<1
+Geometry;G10C11;hq4;-1<cos(x)<1
+Geometry;G11C11;hq5;cos(-a)=cosa, sin(-a)=-sin(a)
+Geometry;G12C11;hq6;tan(-a)=-tan(a), cotan(-a)=-cotan(a)
+Geometry;G12C11;hq7;sin(π - a) = sin(a), cos(π - a)=-cos(a)
+Geometry;G12C11;hq8;tan(π-a)=-tan(a),cotan(π-a)=-cotan(a)
+Geometry;G13C11;hq9;sin(a)+sin(b)=2*sin((a+b)/2)*cos((a-b)/2)
+Geometry;G14C11;hq10;sin(a)-sin(b)=2*sin((a+b)/2)*sin((a-b)/2)
+Geometry;G14C11;hq10;cos(a)+cos(b)=2*cos((a+b)/2)*cos((a-b)/2)
+Geometry;G15C11;hq11;cos(a)-cos(b)=-2*sin((a+b)/2)*sin((a-b)/2)
+Geometry;G16C11;hq12;tan(a)+tan(b)=sin(a+b)/(cos(a)*cos(b))
+Geometry;G17C11;hq13;tan(a)-tan(b)=sin(a-b)/(cos(a)*cos(b))
+Geometry;G18C11;hq14;sin(x)+cos(x)=sqrt(2)*sin(x-π/4)
+Geometry;G19C11;hq15;sin(x)-cos(x)=-sqrt(2)*sin(x+π/4)
+Geometry;G21C11;Hạ bậc_1;cos(2*x)=2*cos(x)^2-1=1-2*sin(x)^2
+Geometry;G22C11;Hạ bậc_2;sin(2*x)=2*sin(x)*cos(x)
+Geometry;G20C11;Phương trình lượng giác bậc 2; a*sin(x)^2+b*sin(x)*cos(x)+cos(x)^2=d 
+Geometery;G23C11;Phương trình lượng giác bậc 1; a*sin(x)+b*cos(x)=c (a^2+b^2>c^2)
+Geometery;G24C11;Phương trình đối xứng, phản đối xứng; a*(sin(x)+cos(x))+b*sin(x)*cos(x)+c=0
+Algebra;A1C11;Quy tắc cộng, khi hai biến cố khác nhau hoàn toàn;m1+m2+m3...
+Algebra;A2C11;Quy tắc nhân, khi hai biến cố liên quan tới nhaun;m1*m2*m3...
+Algebra;A3C11;Hoán vị n phần tử; Số cách sắp xếp n phần tử vào n cách khác nhau kể vị trị;P(n)=n!
+Algebra;A4C11;Tổ hợp châp k của n phần tử, có n phần tử và k chỗ, số cách kể vị trí;A(k,n)=P(k,n)=n(A)k
+Algebra;A5C11;Chỉnh hợp chập k của n phần tử, có n phần tử, số cách xếp n vào k chỗ (ko kể vị trí);nCk
+Algebra;A6C11;Nhị thức Newton;(a+b)^n=nC0*a^n*b^0+nC1*a^n-1*b^1+...+nCn*a^0*b^n
+Algebra;A7C11;Xác suất;P| Ω |=1, P(A)=A/|Ω|
+
+ 
+

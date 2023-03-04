@@ -1,0 +1,101 @@
+1;Công thức II New Ton;"Tổ hợp các vecto lực bằng tích vecto gia tốc va khối lượng"; (SUM)F=m*a
+2;Công thức cánh tay đòn; "Hãy cho 1 điểm tựa toi se nang bong ca trai dat nay";F1/F2=d1/d2
+3;Định luật III NewTon; "Khi tác dụng lên 1 vật 1 lực thì vật đó sẽ tác dụng ngược lại 1 phản lực có độ lớn";F1=F2
+4;Công thức lực qua ròng rọc đông;Lực qua ròng rọc động qua ròng rọc động sẽ giảm đi 2 lần; F'=F/2
+5;Công thức lực qua n ròng rọc động;lực qua n ròng rọc động  giảm đu 2^n lần;F'=F/(2^n)
+6;Công thức quãng đường qua n ròng rọc động;lực qua n ròng rọc động giảm đu 2^n lần;d'=d*2^n
+7;Công thức độ rời; Vecto độ rời bằng tích có hướng vecto vận tốc nhân với thời gian; r=v*t
+8;Công thức quãng đường; Quãng đường bằng vận tốc trung bình và thời gian; s=v*t
+9;Vận tốc; Vi phân độ rời và thời gian;v=dr/dt
+10;tốc độ; độ lớn của vận tốc;V=|v|
+11;Gia tốc từ vận tốc;gia tốc là vi phân của vận tốc đối với thời gian;a=dv/dt
+12;Gia tốc đều từ tốc độ;gia tốc là tốc độ thay đổi vận tốc;v(f)=v(i)+a*t
+13;Công thức quãng đường qua ròng rọc đông;Lực qua ròng rọc động qua ròng rọc động sẽ giảm đi 2 lần; d'=2*d
+14;gia tốc từ độ rời; gia tốc là vi phân của vận tốc, vận tốc lại là vi phân của độ rời; a= d(dr/dt)/dt
+15;gia tốc đều từ quãng đường; gia tốc là tốc độ thay đổi tốc độ, tốc độ là tốc độ thay đổi quãng đường;s(f)=s(i)+v(i)*t+*a*(t^2)/2
+16;vecto vận tốc vật ném xiên 1 góc alpha; vận tốc này xét trên 2 phương Ox,Oy;v=v(x)+v(y)
+17;vecto vận tốc trên Ox trong bài toán ném xiên; chiếu vecto v lên Ox ;v(x)=v*cos(alpha)
+18;vecto vận tốc trên Oy trong bài toán ném xiên; chiêu vecto v lên Oy ;v(y)=v*sin(alpha)-gt
+19;thời gian quá trình ném xiên; bằng thời gian ném thẳng đứng lên trên với vận tốc v(y); t=2*v(y)/g
+20;Lực Lorentz; bằng tích có hướng của 2 thành phần, B(cảm ứng từ), v(vận tốc);f(L)=-eBv
+21;Lực từ; bằng tích có hướng của 2 thành phần, B(cảm ứng),chiều dòng điện(I);F(F)=-IBl
+22;Hiệu suất mạch điện; công có tích trên công tổng;H=A(ci)/A(tp)
+23;Công suất mạch ngoài;<nhiều các>;P=U*I=I^2*R=U^2/R
+24;Công hao phí;công sinh ra trên đường dây tải điện, và điện trở trong của nguồn;P(hp)=I^2*r
+25;Điện trở trong của 1 dây dẫn điện;tích của điện trở xuất với chiều dài trên cho tiết diện;R = ρ(l/S)
+26;Định lý Jun; độ tản nhiệt;Q=I^2Rt
+27; Nguyên lý I Nhiệt Động lực học;Nó nói rằng sự thay đổi năng lượng.bên trong ΔU của một hệ thống kín bằng với lượng nhiệt Q cung cấp cho hệ thống.trừ đi lượng công A mà hệ thống thực hiện trên môi trường xung quanh;<ERORR>
+28; Nguyên lý II Nhiệt Động lực học;Định luật 2, hay nguyên lý thứ hai. còn gọi là nguyên lý về entropy, liên quan đến tín.không thể đảo ngược của một quá trình nhiệt động lực học .và đề ra khái niệm entropy. Nguyên lý này phát biểu rằng entropy của một hệ kín chỉ có hai khả năng. hoặc là tăng lên, hoặc giữ nguyên;<ERORR>
+29; Định luật I NewTon;Nếu một vật không chịu tác dụng của lực nào .hoặc chịu tác dụng bởi một tổng hợp lực bằng không thì một vật đang đứng yên sẽ chỉ mãi đứng yên. và một vật đang trạng thái chuyển động sẽ chuyển động mãi mãi;<ERORR>
+30; Định luật III NewTon; Khi vật A tác dụng lên vật B một lực. thì vật B cũng tác dụng lại vật A một lực có cùng phương nhưng ngược chiều nhau; d(Y/X)=M(Y)/M(X)
+31; Định luật II NewTon;Tổng hợp lực lên vật bằng khối lượng vật nhân với gia tốc;(SUM)F=a*m
+32; Định luật Omh đoạn mạch; Hiệu điện thế hai đầu đoạn mạch bằng CĐDĐ nhân với điện trở;(SUM)R*I=U
+33; Định luật Ômh toàn mạch; Hiệu điện thế mạch ngoài bằng Xuất điện động trừ cho Độ xụt thế;U=E-I.r
+34; Định luật hooke; Một vật đàn hồi sẽ có hệ số đàn hồi k;F=-kx
+35; Định luật phản xạ ánh sánh;Khi ánh sáng bị phản xạ, tia phản xạ sẽ nằm. trong mặt phẳng chứa tia tới và pháp tuyến của gương ở điểm tới. Góc phản xạ sẽ bằng góc tới;i'=i
+36; Định luật  I Kirchhoff  ;Trong mạch điện, định luật Kirchhoff là hai phương trình để mô tả mối quan hệ của cường độ dòng điện và điện áp. Các định luật này được Gustav Kirchhoff xây dựng vào năm 1845; (SUM) I(k)=0
+37; Định luật II Kirchhoff  ;Trong mạch điện, định luật Kirchhoff là hai phương trình để mô tả mối quan hệ của cường độ dòng điện và điện áp. Các định luật này được Gustav Kirchhoff xây dựng vào năm 1845; (SUM) V(k)=0
+38; Định luật Culong; Lực hút hay đẩy giữa hai điện tích điểm có phương trùng với đường thẳng nối hai điện tích điểm đó. có độ lớn tỉ lệ thuận với độ lớn của hai điện tích và tỉ lệ nghịch với bình phương khoảng cách giữa chúng; F=k*abs(q1*q2)/(r*r)
+39; Định luật cảm ứng Faraday;Định luật cảm ứng Faraday là định luật cơ bản trong điện từ, cho biết từ trường tương tác với một mạch điện để tạo ra sức điện động (EMF) - một hiện tượng gọi là cảm ứng điện từ. Đó là nguyên lý hoạt động cơ bản của máy biến áp, cuộn cảm, các loại động cơ điện, máy phát điện và nam châm điện;(Từ thông)B=(tích phân)B(r,t).dA
+40; Phương trình MaxWell Faraday;Trong trường hợp của một cuộn cảm có N vòng cuốn, công thức trở thành. Trong trường hợp của một cuộn cảm có N vòng cuốn. công thức trở thành; V=-N*(denta)A/(denta)T
+41; Định luật truyền thẳng ánh sáng;Định luật truyền thẳng của ánh sáng. “Trong một môi trường trong suốt và đồng tính, ánh sáng truyền đi theo đường thẳng;<ERORR>
+42; Định luật khúc xạ ánh sáng;Định luật khúc xạ ánh sáng được diễn giải như sau. Tia khúc xạ luôn nằm trong mặt phẳng tới và ở phía bên kia pháp tuyến so với tia tới. Mặt phẳng tới là mặt phẳng tạo thành bởi tia tới và pháp tuyến. Với 2 môi trường trong suốt nhất định. tỉ số giữa sin i và sin r là một hằng số; sin(i)*n(i)=sin(r)*n(r).n=c/v.n21=n2/n1.n1i=n2r
+43; Định luật tán xạ ánh sáng;Khi ánh sáng truyền từ môi trường này sang bất kỳ môi trường nào khác, ví dụ như không khí, một cốc nước thì một phần ánh sáng bị hấp thụ bởi các hạt của môi trường trước. bức xạ tiếp theo của nó theo một hướng cụ thể. Hiện tượng này .được gọi là sự tán xạ ánh sáng;<ERORR>
+44; Định luật Lorentz; Lực lorentz; F=q*(E+v*B)
+45; Định luật Vạn Vật Hấp Dẫn của NewTon;Định luật vạn vật hấp dẫn của Newton thường được phát biểu. rằng mọi hạt đều hút mọi hạt khác .trong vũ trụ với một lực tỷ lệ thuận với tích khối lượng. của chúng và tỷ lệ nghịch với bình phương khoảng cách .giữa các tâm của chúng.[note 1] Việc công bố lý thuyết này được .gọi là " sự thống nhất vĩ đại đầu tiên ". vì nó đánh dấu sự hợp nhất của các hiện tượng hấp dẫn được mô tả trước đây. trên Trái đất với các hành vi thiên văn đã biết; F=G*(m1*m2)/(r^2)
+46; Công thức trung bình;Error;(Avg)A=(A1+A2+...+An)/n
+47; công thức sai số phép đo;Error;Δ(A1)=|Avg(A)-A1|
+48; Cách viết sai số;Error;A=Avg(A)+/- Δ(A)
+49; sai số tỉ đối;ERORR;δA=ΔA/A.
+50; Định luật bảo toàn khối lượng; khối lượng sau phải bằng ban đầu;m(i)=mf
+51; Định luật bảo toàn năng lượng; năng lượng không đổi trước và sau quá trình;W(i)=W(f)
+52; Định luật bảo toàn động lượng; động lượng sẽ bảo toàn nếu không có xung lực;Σmi*vi=Σmf*vf
+53; Năng lượng hạt nhân;;E=m*c^2. (m là khối lượng hạt). c=3*10^8 (m/s) là tốc độ ánh sáng
+54; Năng lượng bức xạ;;W=hc/λ=hf. (c là tốc độ ánh sáng). h là hằng số botzman. λ là bức sóng của ánh sáng. f là tần số ánh sáng
+55; Áp suất trong chất lỏng;;p=dgh. trong đó, d là khối lượng riêng của chất lỏng. g là gia tốc trọng trường. h là độ sâu
+56; Định luật cân bằng áp suất; trong môi trường chất lỏng và chất khí áp suất tại hai điểm có độ cao ngang bằng nhau sẽ có áp suất bằng nhau;erorr
+57;Công thức II New Ton;"Tổ hợp các vecto lực bằng tích vecto gia tốc va khối lượng"; (SUM)F=m*a
+58;Công thức cánh tay đòn; "Hãy cho 1 điểm tựa toi se nang bong ca trai dat nay";F1/F2=d1/d2
+59;Định luật III NewTon; "Khi tác dụng lên 1 vật 1 lực thì vật đó sẽ tác dụng ngược lại 1 phản lực có độ lớn";F1=F2
+60;Công thức lực qua ròng rọc đông;Lực qua ròng rọc động qua ròng rọc động sẽ giảm đi 2 lần; F'=F/2
+61;Công thức lực qua n ròng rọc động;lực qua n ròng rọc động  giảm đu 2^n lần;F'=F/(2^n)
+62;Công thức quãng đường qua n ròng rọc động;lực qua n ròng rọc động giảm đu 2^n lần;d'=d*2^n
+63;Công thức độ rời; Vecto độ rời bằng tích có hướng vecto vận tốc nhân với thời gian; r=v*t
+64;Công thức quãng đường; Quãng đường bằng vận tốc trung bình và thời gian; s=v*t
+65;Vận tốc; Vi phân độ rời và thời gian;v=dr/dt
+66;tốc độ; độ lớn của vận tốc;V=|v|
+67;Gia tốc từ vận tốc;gia tốc là vi phân của vận tốc đối với thời gian;a=dv/dt
+68;Gia tốc đều từ tốc độ;gia tốc là tốc độ thay đổi vận tốc;v(f)=v(i)+a*t
+69;Công thức quãng đường qua ròng rọc đông;Lực qua ròng rọc động qua ròng rọc động sẽ giảm đi 2 lần; d'=2*d
+70;gia tốc từ độ rời; gia tốc là vi phân của vận tốc, vận tốc lại là vi phân của độ rời; a= d(dr/dt)/dt
+71;gia tốc đều từ quãng đường; gia tốc là tốc độ thay đổi tốc độ, tốc độ là tốc độ thay đổi quãng đường;s(f)=s(i)+v(i)*t+*a*(t^2)/2
+72;vecto vận tốc vật ném xiên 1 góc alpha; vận tốc này xét trên 2 phương Ox,Oy;v=v(x)+v(y)
+73;vecto vận tốc trên Ox trong bài toán ném xiên; chiếu vecto v lên Ox ;v(x)=v*cos(alpha)
+74;vecto vận tốc trên Oy trong bài toán ném xiên; chiêu vecto v lên Oy ;v(y)=v*sin(alpha)-gt
+75;thời gian quá trình ném xiên; bằng thời gian ném thẳng đứng lên trên với vận tốc v(y); t=2*v(y)/g
+76;Lực Lorentz; bằng tích có hướng của 2 thành phần, B(cảm ứng từ), v(vận tốc);f(L)=-eBv
+77;Lực từ; bằng tích có hướng của 2 thành phần, B(cảm ứng),chiều dòng điện(I);F(F)=-IBl
+78;Hiệu suất mạch điện; công có tích trên công tổng;H=A(ci)/A(tp)
+79;Công suất mạch ngoài;<nhiều các>;P=U*I=I^2*R=U^2/R
+80;Công hao phí;công sinh ra trên đường dây tải điện, và điện trở trong của nguồn;P(hp)=I^2*r
+81;Điện trở trong của 1 dây dẫn điện;tích của điện trở xuất với chiều dài trên cho tiết diện;R = ρ(l/S)
+82;Định lý Jun; độ tản nhiệt;Q=I^2Rt
+83; Nguyên lý I Nhiệt Động lực học;Nó nói rằng sự thay đổi năng lượng.bên trong ΔU của một hệ thống kín bằng với lượng nhiệt Q cung cấp cho hệ thống.trừ đi lượng công A mà hệ thống thực hiện trên môi trường xung quanh;<ERORR>
+84; Nguyên lý I Nhiệt Động lực học;Nó nói rằng sự thay đổi năng lượng.bên trong ΔU của một hệ thống kín bằng với lượng nhiệt Q cung cấp cho hệ thống.trừ đi lượng công A mà hệ thống thực hiện trên môi trường xung quanh;<ERORR>
+85; Nguyên lý II Nhiệt Động lực học;Định luật 2, hay nguyên lý thứ hai. còn gọi là nguyên lý về entropy, liên quan đến tín.không thể đảo ngược của một quá trình nhiệt động lực học .và đề ra khái niệm entropy. Nguyên lý này phát biểu rằng entropy của một hệ kín chỉ có hai khả năng. hoặc là tăng lên, hoặc giữ nguyên;<ERORR>
+86; Định luật I NewTon;Nếu một vật không chịu tác dụng của lực nào .hoặc chịu tác dụng bởi một tổng hợp lực bằng không thì một vật đang đứng yên sẽ chỉ mãi đứng yên. và một vật đang trạng thái chuyển động sẽ chuyển động mãi mãi;<ERORR>
+87; Định luật III NewTon; Khi vật A tác dụng lên vật B một lực. thì vật B cũng tác dụng lại vật A một lực có cùng phương nhưng ngược chiều nhau; d(Y/X)=M(Y)/M(X)
+88; Định luật II NewTon;Tổng hợp lực lên vật bằng khối lượng vật nhân với gia tốc;(SUM)F=a*m
+89; Định luật Omh đoạn mạch; Hiệu điện thế hai đầu đoạn mạch bằng CĐDĐ nhân với điện trở;(SUM)R*I=U
+90; Định luật Ômh toàn mạch; Hiệu điện thế mạch ngoài bằng Xuất điện động trừ cho Độ xụt thế;U=E-I.r
+91; Định luật hooke; Một vật đàn hồi sẽ có hệ số đàn hồi k;F=-kx
+92; Định luật phản xạ ánh sánh;Khi ánh sáng bị phản xạ, tia phản xạ sẽ nằm. trong mặt phẳng chứa tia tới và pháp tuyến của gương ở điểm tới. Góc phản xạ sẽ bằng góc tới;i'=i
+93; Định luật  I Kirchhoff  ;Trong mạch điện, định luật Kirchhoff là hai phương trình để mô tả mối quan hệ của cường độ dòng điện và điện áp. Các định luật này được Gustav Kirchhoff xây dựng vào năm 1845; (SUM) I(k)=0
+94; Định luật II Kirchhoff  ;Trong mạch điện, định luật Kirchhoff là hai phương trình để mô tả mối quan hệ của cường độ dòng điện và điện áp. Các định luật này được Gustav Kirchhoff xây dựng vào năm 1845; (SUM) V(k)=0
+95; Định luật Culong; Lực hút hay đẩy giữa hai điện tích điểm có phương trùng với đường thẳng nối hai điện tích điểm đó. có độ lớn tỉ lệ thuận với độ lớn của hai điện tích và tỉ lệ nghịch với bình phương khoảng cách giữa chúng; F=k*abs(q1*q2)/(r*r)
+96; Định luật cảm ứng Faraday;Định luật cảm ứng Faraday là định luật cơ bản trong điện từ, cho biết từ trường tương tác với một mạch điện để tạo ra sức điện động (EMF) - một hiện tượng gọi là cảm ứng điện từ. Đó là nguyên lý hoạt động cơ bản của máy biến áp, cuộn cảm, các loại động cơ điện, máy phát điện và nam châm điện;(Từ thông)B=(tích phân)B(r,t).dA
+97; Phương trình MaxWell Faraday;Trong trường hợp của một cuộn cảm có N vòng cuốn, công thức trở thành. Trong trường hợp của một cuộn cảm có N vòng cuốn. công thức trở thành; V=-N*(denta)A/(denta)T
+98; Định luật truyền thẳng ánh sáng;Định luật truyền thẳng của ánh sáng. “Trong một môi trường trong suốt và đồng tính, ánh sáng truyền đi theo đường thẳng;<ERORR>
+99; Định luật khúc xạ ánh sáng;Định luật khúc xạ ánh sáng được diễn giải như sau. Tia khúc xạ luôn nằm trong mặt phẳng tới và ở phía bên kia pháp tuyến so với tia tới. Mặt phẳng tới là mặt phẳng tạo thành bởi tia tới và pháp tuyến. Với 2 môi trường trong suốt nhất định. tỉ số giữa sin i và sin r là một hằng số; sin(i)*n(i)=sin(r)*n(r).n=c/v.n21=n2/n1.n1i=n2r
+100; Định luật tán xạ ánh sáng;Khi ánh sáng truyền từ môi trường này sang bất kỳ môi trường nào khác, ví dụ như không khí, một cốc nước thì một phần ánh sáng bị hấp thụ bởi các hạt của môi trường trước. bức xạ tiếp theo của nó theo một hướng cụ thể. Hiện tượng này .được gọi là sự tán xạ ánh sáng;<ERORR>
+101; Định luật Lorentz; Lực lorentz; F=q*(E+v*B)

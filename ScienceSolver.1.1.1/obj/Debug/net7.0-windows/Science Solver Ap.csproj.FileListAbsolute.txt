@@ -1,0 +1,48 @@
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\bin\Debug\net7.0-windows\Science Solver Ap.exe
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\bin\Debug\net7.0-windows\Science Solver Ap.deps.json
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\bin\Debug\net7.0-windows\Science Solver Ap.runtimeconfig.json
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\bin\Debug\net7.0-windows\Science Solver Ap.dll
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\bin\Debug\net7.0-windows\Science Solver Ap.pdb
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\Science Solver Ap.csproj.AssemblyReference.cache
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.BasicCalculate.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.Chemistry.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.Equations_Solving.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.Equation_FirstDegree.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.Equation_FourthDegree.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.Equation_SecondeDegree.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.Equation_ThirdDegree.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.HighLevelCalculate.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.Introduce_ScienceSolver.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.Mathematics.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.Calculating_Matrix.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.Matrix_Unary.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.PhysicExchangeUnits.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.Physics.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.Properties.Resources.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.ScienceSolver.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.Searching_Chemical_Theorem.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.Searching_Physical_Constant.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.SearchingChemicalConst.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.SearchingChemicalElements.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.SearchingChemicalEquations.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.SearchingMathFormula.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.SearchingPhysicalFormula.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.Searching_Mathematics_Theorem.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.Searching_Physics_Theorem.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.SystemOfEquation.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.SystemOfEquations_3.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.SystemOfEquations_4.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.SystemOfEquation_2.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\Science Solver Ap.csproj.GenerateResource.cache
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\Science Solver Ap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\Science Solver Ap.AssemblyInfoInputs.cache
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\Science Solver Ap.AssemblyInfo.cs
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\Science Solver Ap.csproj.CoreCompileInputs.cache
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\Science Solver Ap.dll
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\refint\Science Solver Ap.dll
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\Science Solver Ap.pdb
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\Science Solver Ap.genruntimeconfig.cache
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ref\Science Solver Ap.dll
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.Solving_Sys_Equa_Equa.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.Searching_Mathematics.resources
+D:\Final_Project_DataStructure_And_Algothorism\ScienceSolver.1.1.1\ScienceSolver.1.1.1\obj\Debug\net7.0-windows\ScienceSolver._1._1._1.Introduce_ScienceSolver_Usage.resources

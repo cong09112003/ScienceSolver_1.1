@@ -1,0 +1,189 @@
+naoh+hcl;NaOH+HCl->NaCl+H2O
+fe+h2so4;Fe+H2SO4->FeSO4+H2/2Fe+6H2SO4->Fe2(SO4)3+3SO2+6H2O(điều kiện: H2SO4 đặc nóng)/8Fe+15H2SO4->4Fe2(SO4)3+3H2S+12H2O(đk:H2SO4 đặc nóng)
+fe+hcl;Fe+2HCL->FeCl2+H24
+fe+hno3;Fe+HNO3->Fe(No3)3+NO+H2O(điều kiện HNO3 đặc nóng)/Fe+4HNO3->Fe(No3)3+NO+2H2O(điều kiện HNO3 loãng)/8Fe+30HNO3->8Fe(No3)3+3N2O+15H2O(điều kiện HNO3 loãng)/8Fe+30HNO3->8Fe(NO3)3+3NH4NO3+9H2O(điều kiện HNO3 Lõang)/10Fe+36HNO3->10Fe(NO3)3+3N2+18H2O(điều kiện HNO3 loãng)
+zn+hcl;Zn+2HCl->ZnCl2+H2
+zn+h2so4;Zn+H2SO4->ZnSO4+H2/Zn+H2SO4->ZnSO4+SO2+2H2O(điều kiện H2SO4 đặc nóng)/3Zn+4H2SO4->3ZnSO4+S+4H2O(điều kiện H2SO4 đặc)/4Zn+5H2SO4->4ZnSO4+H2S+4H2O(điều kiện H2SO4 đặc)
+zn+hno3;10HNO3 + 4Zn → 3H2O + NH4NO3 + 4Zn(NO3)2/8HNO3 + 3Zn → 4H2O + 2NO + 3Zn(NO3)2/80HNO3 + 31Zn → 40H2O + NO + NO2 + 6N2O + 31Zn(NO3)2/10HNO3 + 4Zn → 5H2O + N2O + 4Zn(NO3)2/4HNO3 + Zn → 2H2O + 2NO2 + Zn(NO3)2/6HNO3 + 2Zn → 3H2O + NO + NO2 + 2Zn(NO3)2/2HNO3 + Zn → H2 + Zn(NO3)2
+kmno4+h2o+so2;2H2O + 2KMnO4 + 5SO2 → 2H2SO4 + 2MnSO4 + K2SO4(điều kiện H2SO4 loãng)
+feo+h2o+kmno4;10FeO + 18H2SO4 + 2KMnO4 → 5Fe2(SO4)3 + 18H2O + 2MnSO4 + K2SO4
+kmno4;2KMnO4 → MnO2 + O2 + K2MnO4 (điều kiện nhiệt độ)
+nabr+kmno4+h2so4;8H2SO4 + 2KMnO4 + 10NaBr → 5Br2 + 8H2O + 2MnSO4 + 5Na2SO4 + K2SO4
+c2h4+h2o+kmno4;3C2H4 + 4H2O + 2KMnO4 → 2KOH + 2MnO2 + 3C2H4(OH)2
+h2so4+kmno4+feso4;8H2SO4 + 2KMnO4 + 10FeSO4 → 5Fe2(SO4)3 + 8H2O + 2MnSO4 + 1K2SO4
+c2h4+h2o+kmno4;3C2H4 + 4H2O + 2KMnO4 → 2KOH + 2MnO2 + 3C2H4(OH)2
+h2so4+kmno4+no;9H2SO4 + 6KMnO4 + 10NO → 4H2O + 10HNO3 + 6MnSO4 + 3K2SO4
+kmno4+koh+mnso4;2KMnO4 + 4KOH + 3MnSO4 → 2H2O + 5MnO2 + 3K2SO4
+kmno4+hbr;2KMnO4 + 16HBr → Br2 + 8H2O + 2KBr + 2MnBr2
+kmno4+hcl;16HCl + 2KMnO4 → 5Cl2 + 8H2O + 2KCl + 2MnCl2
+kmno4+h2o+na2so3;H2O + 2KMnO4 + 3Na2SO3 → 2KOH + 2MnO2 + 3Na2SO4
+h2o+kmno4+mnso4;2H2O + 2KMnO4 + 3MnSO4 → 2H2SO4 + 5MnO2 + K2SO4
+h2o2+kmno4;3H2O2 + 2KMnO4 → 2H2O + 2KOH + 2MnO2 + 3O2
+kmno4+koh+k2so3;2KMnO4 + 2KOH + K2SO3 → H2O + K2SO4 + 2K2MnO4
+h2o2+h2so4+kmno4;5H2O2 + 3H2SO4 + 2KMnO4 → 8H2O + 2MnSO4 + 5O2 + K2SO4
+h2so4+kmno4+nacl;8H2SO4 + 2KMnO4 + 10NaCl → 5Cl2 + 8H2O + 2MnSO4 + 5Na2SO4 + K2SO4
+kmno4+koh;2KMnO4 + 2KOH → H2O + O2 + 2K2MnO4
+fes2+kmno4;4FeS2 + 22KMnO4 → 2Fe2O3 + 11MnO2 + 8SO2 + 11K2MnO4
+h2so4+kmno4+nano2;3H2SO4 + 2KMnO4 + 5NaNO2 → 3H2O + 2MnSO4 + 5NaNO3 + K2SO4
+h2so4+kmno4+h2c2o4;3H2SO4 + 2KMnO4 + 5H2C2O4 → 8H2O + 2MnSO4 + K2SO4 + 10CO2
+h2s+h2so4+kmno4;5H2S + 3H2SO4 + 2KMnO4 → 8H2O + 2MnSO4 + 2S + K2SO4
+fe(no3)2+h2so4+kmno4;10Fe(NO3)2 + H2SO4 + 2KMnO4 → Fe2(SO4)3 + H2O + 2MnSO4 + K2SO4 + Fe(NO3)3
+kmno4+k2so3+khso4;2KMnO4 + 5K2SO3 + 6KHSO4 → 3H2O + 2MnSO4 + 9K2SO4
+kmno4+c6h5ch3;2KMnO4 + C6H5CH3 → H2O + KOH + 2MnO2 + C6H5COOK
+h2o+kmno4+k2so3;H2O + 2KMnO4 + 3K2SO3 → 2KOH + 2MnO2 + 3K2SO4
+c2h2+h2so4+kmno4;C2H2 + 3H2SO4 + 2KMnO4 → 4H2O + 2MnSO4 + 2K2SO4 + 2CO2
+h2so4+kmno4+kno2;3H2SO4 + 2KMnO4 + 5KNO2 → 3H2O + 5KNO3 + 2MnSO4 + K2SO4
+hcl+kmno4;16HCl + 2KMnO4 → 5Cl2 + 8H2O + 2KCl + 2MnCl2
+h2so4+k2s+kmno4;8H2SO4 + 5K2S + 2KMnO4 → 8H2O + 5S + 6K2SO4 + 2MnO4
+fes2+h2so4+kmno4;2FeS2 + 8H2SO4 + 6KMnO4 → Fe2(SO4)3 + 8H2O + 6MnSO4 + 3K2SO4
+h2so4+kmno4+As;9H2SO4 + 6KMnO4 + 10As → 9H2O + 6MnSO4 + 3K2SO4 + 5As2O3
+kmno4+koh;KMnO4 + 4KOH → 2H2O + O2 + 4K2MnO4
+kmno4+nh3;KMnO4 + 2NH3 → 2H2O + 2KOH + 2MnO2 + N2
+h2o+kmno4+k2so3;H2O + 2KMnO4 + 3K2SO3 → 2KOH + 2Mn(OH)4 + 3K2SO4
+h2so4+kcl+kmno4;8H2SO4 + 10KCl + 2KMnO4 → 5Cl2 + 8H2O + 2MnSO4 + 6K2SO4
+h2so4+kmno4+feso4;8H2SO4 + 2KMnO4 + 10FeSO4 → 5Fe2(SO4)3 + 8H2O + 2MnSO4 + K2SO4
+ch3coch3+kmno4+khso4;10CH3COCH3 + 12KMnO4 + 36KHSO4 → 10CH3COOH + 28H2O + 12MnSO4 + 24K2SO4 + 5CO2
+h2so4+kmno4+p4;4H2SO4 + 4KMnO4 + P4 → 4MnSO4 + 4KH2PO4
+h2so4+kmno4+k2so3;3H2SO4 + 2KMnO4 + 5K2SO3 → 3H2O + 2MnSO4 + 6K2SO4
+al+h2so4;2Al + 3H2SO4 → Al2(SO4)3 + 3H2/2Al + 3H2SO4 → Al2(SO4)3 + 3H2/2Al + 4H2SO4 → Al2(SO4)3 + 4H2O + S/2Al + 6H2SO4 → Al2(SO4)3 + 6H2O + 3SO2/8Al + 15H2SO4 → 4Al2(SO4)3 + 12H2O + 3H2S/8Al + 15H2SO4 → 4Al2(SO4)3 + 12H2O + 3H2S/8Al + 21H2SO4 + 3K2Cr2O7 → 4Al2(SO4)3 + 21H2O + 3K2SO4 + 6CrSO4
+al+hcl;2Al + 6HCl → 2AlCl3 + 3H2/10Al + 36HCl + 6KNO3 → 10AlCl3 + 18H2O + 6KCl + 3N2
+al+hno3;Al + 6HNO3 → 3H2O + 3NO2 + Al(NO3)3/8Al + 30HNO3 → 9H2O + 3NH4NO3 + 8Al(NO3)3/Al + 4HNO3 → 2H2O + NO + Al(NO3)3/8Al + 30HNO3 → 15H2O + 3N2O + 8Al(NO3)3/8Al + 30HNO3 → 15H2O + 3N2O + 8Al(NO3)3/8Al + 30HNO3 → 9H2O + 3NH4NO3 + 8Al(NO3)3/8Al + 30HNO3 → 15H2O + 3N2O + 8Al(NO3)3/52Al + 192HNO3 → 96H2O + 9N2 + 6NO + 6N2O + 52Al(NO3)3/10Al + 36HNO3 → 18H2O + 3N2 + 10Al(NO3)3/8Al + 27HNO3 → 9H2O + 3NH3 + 8Al(NO3)3/2Al + 6HNO3 → 3H2 + 2Al(NO3)3(27 độ C)
+al+naoh;2Al + 2H2O + 2NaOH → 3H2 + 2NaAlO2(400-500 độ C)/2Al + 6H2O + 2NaOH → 3H2 + 2Na[Al(OH)4](nhiệt độ)/2Al + 6H2O + 2NaOH → 3H2 + 2Na[AlOH]4/Al + 3H2O + NaOH → 3/2H2 + Na[AlOH]4/2Al + 4H2O + 2NaOH + C6H5NO2 → C6H5NH2 + 2NaAl(OH)4/8Al + 2H2O + 3NaNO3 + 5NaOH → 3NH3 + 8NaAlO2
+al+koh;2Al + 2H2O + 2KOH → 3H2 + 2KAlO2/2Al + 2H2O + 2KOH → 3H2 + 2KAlO2/Al + H2O + KOH → 3/2H2 + KAlO2/8Al + 18H2O + 3KNO3 + 5KOH → 3NH3 + 8KAl(OH)4/2Al + 6H2O + 2KOH → 3H2 + 2KAl(OH)4(400-500 độ C)
+al+ba(oh)2;2Al + 2H2O + Ba(OH)2 → 3H2 + Ba(AlO2)2
+al+ca(oh)2;Al + Ca(OH)2 + H2O → H2 + Ca(AlO2)2
+al2o3;2Al2O3 → 4Al + 3O2 (900 độ C, đpnc)
+Al+fe2o3;2Al + Fe2O3 → Al2O3 + 2Fe(nhiệt độ)
+fe2(so4)3;Fe2(SO4)3 → Fe2O3 + 3SO3(500-700 độ C)
+fe+h2so4+kmno4;10FeO + 18H2SO4 + 2KMnO4 → 5Fe2(SO4)3 + 18H2O + 2MnSO4 + K2SO4
+hno3+fecus2;24HNO3 + FeCuS2 → Cu(NO3)2 + 10H2O + 2H2SO4 + 18NO2 + Fe(NO3)3 (nhiệt độ)
+naoh+ch3ch2cooch2c6h5;NaOH + CH3-CH2-COO-CH2-C6H5 → C6H5CH2OH + CH3CH2COONa
+naoh+c6h5br;NaOH + C6H5Br → C6H5ONa + H2O + NaBr
+naoh+nh4hso4;2NaOH + NH4HSO4 → 2H2O + Na2SO4 + NH3
+agno3+cu;2AgNO3 + Cu → 2Ag + Cu(NO3)2
+hno3+[cu(nh3)4](oh)2;6HNO3 + [Cu(NH3)4](OH)2 → Cu(NO3)2 + 2H2O + 4NH4NO3
+(nh4)3po4+ba(oh)2;2(NH4)3PO4 + 3Ba(OH)2 → 6H2O + 6NH3 + Ba3(PO4)2
+hno3+fexOy;(6x-2y)HNO3 + FexOy → (3x-y)H2O + 3x-2yNO2 + xFe(NO3)3
+h2o+kmno4+so2;2H2O + 2KMnO4 + 5SO2 → 2H2SO4 + 2MnSO4 + K2SO4(h2so4 loãng)
+fe(so4)3+h2o;Fe2(SO4)3 + 3H2O → 2Fe + 3H2SO4 + 3/2O2 (đpdd)
+agno3;2AgNO3 → 2Ag + 2NO2 + O2
+cun(no3)2;2Cu(NO3)2 → 2CuO + 4NO2 + O2
+c2h5oh;2C2H5OH → C4H6 + H2 + H2O (Nhiệt độ: 450 độ C Xúc tác: Al2O3, Cr2O3)
+c2h5oh+o2;C2H5OH + 3O2 → 3H2O + 2CO2 Nhiệt độ: nhiệt độ
+c2h5oh + (ch3co)2o;C2H5OH + (C3CO)2O → CH3COOH + CH3COOC2H5Nhiệt độ: nhiệt độ
+ch3cooh+cu(oh)2;2CH3COOH + Cu(OH)2 → 2H2O + (CH3COO)2Cu
+ch3cooh+khco3;CH3COOH + KHCO3 → H2O + CO2 + CH3COOK
+ch3cooh+mg(oh)2;2CH3COOH + Mg(OH)2 → 2H2O + (CH3COO)2Mg
+c2h4+h2o;C2H4 + H2O → C2H5OH Xúc tác: H2SO4; H3PO4 Điều kiện khác: nhiệt độ cao
+c6h12o6;C6H12O6 → 2C2H5OH + 2CO2 Nhiệt độ: 30-35°C Xúc tác: enzim men zima
+ch3cho+h2o;CH3CHO + H2O → C2H5OH Nhiệt độ: nhiệt độ Xúc tác: xúc tác
+h2o+ch3cooc2h5;H2O + CH3COOC2H5 → C2H5OH + CH3COOH Điều kiện khác: với sự hiện diện của H+
+hno2+c2h5nh2;HNO2 + C2H5NH2 → C2H5OH + H2O + N2 Nhiệt độ: nhiệt độ thường
+h2o+c2h4;H2O + CH2=CH2 → C2H5OH Nhiệt độ: 300°C Xúc tác: H2SO4
+ch3cho+h2;CH3CHO + H2 → C2H5OH
+naoh+c2h5cooc2h5;NaOH + C2H5COOC2H5 → C2H5OH + C2H5COONa Nhiệt độ: t0 Xúc tác: H2O
+h2o+co2+c2h5ona;H2O + CO2 + C2H5ONa → C2H5OH + NaHCO3
+ch3cooc2h5; CH3COOC2H5 → C2H5OH + CH3CH2CHO  Xúc tác:LiAlH4
+ch3cooch3;CH3COOCH3 → C2H5OH + CH3OH  Xúc tác: LiAlH4
+hcl+c2h5ona;HCl + C2H5ONa → C2H5OH + NaCl
+naoh+nh2ch2cooc2h5;NaOH + NH2CH2COOC2H5 → C2H5OH + H2N-CH2-COONa
+naoh+c2h5cl;NaOH + C2H5Cl → C2H5OH + NaCl
+ba(oh)2+ch3cooc2h5;Ba(OH)2 + 2CH3COOC2H5 → 2C2H5OH + (CH3COO)2Ba
+koh+ch3cooc2h5;KOH + CH3COOC2H5 → C2H5OH + CH3COOK
+koh+hcooc2h5;KOH + HCOOC2H5 → C2H5OH + HCOOK
+naoh+hcooc2h5;NaOH + HCOOC2H5 → C2H5OH + HCOONa
+naoh+c2h5ooccooch3;2NaOH + C2H5OOC-COOCH3 → C2H5OH + CH3OH + (COONa)2
+ca(oh)2+2ch3cooc2h5;Ca(OH)2 + 2CH3COOC2H5 → (CH3COO)2Ca + 2C2H5OH
+ch3cho+h2so4+nabh4;2CH3CHO + H2SO4 + 2NaBH4 → 2C2H5OH + Na2SO4 + 2BH3 Dung môi: THF
+ch3cooch2ch3;CH3COOCH2CH3 → C2H5OH + CH3COOH
+h2s+c2h5oli;H2S + C2H5OLi → C2H5OH + LiHS Dung môi: ête
+h2s+c2h5ona;H2S + C2H5ONa → C2H5OH + NaHS Dung môi: ête
+h2s+c2h5oka;H2S + C2H5OK → C2H5OH + KHS Dung môi: ête
+h2s+li(c2h5o);H2S + Li(C2H5O) → C2H5OH + LiHSDung môi: ête
+c2h5ona+(nh3oh)cl;C2H5ONa + (NH3OH)Cl → C2H5OH + NaCl + NH2OHDung môi: etanol
+ca(oh)2+hcooc2h5;Ca(OH)2 + 2HCOOC2H5 → 2C2H5OH + (HCOO)2Ca
+naoh+ch3coo5;NaOH + CH3COOC2H5 → C2H5OH + CH3COONa
+nahco3+ch3cooc2h5;NaHCO3 + CH3COOC2H5 → C2H5OH + CH3COONa + CO2
+hno2+c2h5nh2;HNO2 + C2H5NH2 → C2H5OH + H2O + N2
+cu+hcl;Cu + 4HCl + 2KNO3 → 2H2O + 2KCl + 2NO2 + CuCl2/Cu + HCl + 1/2O2 → H2O + CuCl2/2Cu + H2O2 + 2HCl → 2H2O + 2CuCl/Cu + 8HCl + Fe3O4 → 3FeCl2 + 4H2O + CuCl2/3Cu + Cu(NO3)2 + 8HCl → 4H2O + 2NO + 4CuCl2/3Cu + 8HCl + 8NaNO3 → 3Cu(NO3)2 + 4H2O + 8NaCl + NO/3Cu + 8HCl + 2NaNO3 → 4H2O + 2NaCl + 2NO + 3CuCl2/2Cu + 4HCl → H2 + 2H[CuCl2]
+h2+o2;2H2 + O2 → 2H2ONhiệt độ: 550°C Điều kiện khác: cháy trong không khí
+cu+h2so4;Cu + 2H2SO4 → 2H2O + SO2 + CuSO4Nhiệt độ: nhiệt độ/3Cu + 4H2SO4 + 2NaNO3 → 4H2O + Na2SO4 + 2NO + 3CuSO4/Cu + 2H2SO4 + 4NH4NO3 → 2(NH4)2SO4 + Cu(NO3)2 + 2H2O + 2NO2/3Cu + 4H2SO4 + 2Al(NO3)3 → Al2(SO4)3 + 2Cu(NO3)2 + 4H2O + NO + CuSO4Nhiệt độ: Nhiệt độ/Cu + 2H2SO4 → 2H2O + SO2 + Cu(SO4)/2Cu + 2H2SO4 + O2 → 2H2O + 2CuSO4Nhiệt độ: Nhiệt độ./Cu + H2O2 + H2SO4 → 2H2O + CuSO4/9Cu + 12H2SO4 + 2Fe(NO3)3 → Fe2(SO4)3 + 12H2O + 6NO + 9CuSO4/3Cu + 4H2SO4 + 8NaNO3 → 3Cu(NO3)2 + 4H2O + 4Na2SO4 + 2NO/3Cu + 4H2SO4 + 2KNO3 → 4H2O + 2NO + K2SO4 + 3CuSO4/Cu + H2SO4 → H2 + CuSO4
+cu+hno3;Cu + 4HNO3 → Cu(NO3)2 + 2H2O + 2NO2/3Cu + 8HNO3 → 3Cu(NO3)2 + 4H2O + 2NO/Cu + 2HNO3 → Cu(NO3)2 + H2Điều kiện khác: ở nhiệt độ phòng
+agno3;2AgNO3 → 2Ag + 2NO2 + O2 Nhiệt độ: nhiệt độ
+agno3+cu;2AgNO3 + Cu → 2Ag + Cu(NO3)2
+agno3+no+hcho;2AgNO3 + H2O + HCHO + 3NH3 → 2Ag + 2NH4NO3 + HCOONH4 hiệt độ: nhiệt độ
+agno3+nacl;AgNO3 + NaCl → AgCl + NaNO3
+agno3+ch3cho+nh3;4AgNO3 + 3CH3CHO + 5NH3 → 4Ag + 3NH4NO3 + 3CH3COONH4
+agno3+nai;AgNO3 + NaI → NaNO3 + AgI
+agno3+fe(no3)2;AgNO3 + Fe(NO3)2 → Ag + Fe(NO3)3 Nhiệt độ: nhiệt độ
+agno3+hcl;AgNO3 + HCl → AgCl + HNO3
+agno3+na2s;2AgNO3 + Na2S → 2NaNO3 + Ag2S
+agno3+h2o+nh3+c6h12o6;2AgNO3 + H2O + 2NH3 + C6H12O6 → 2Ag + 2NH4NO3 + C6H12O7
+agno3+h2o+2nh3+hcooc2h5;2AgNO3 + H2O + 3NH3 + HCOOC2H5 → 2Ag + 2NH4NO3 + C2H5OCOONH4
+agno3+sn;2AgNO3 + Sn → 2Ag + Sn(NO3)2
+agno3+fe;2AgNO3 + Fe → 2Ag + Fe(NO3)2
+agno3+fecl2;2AgNO3 + FeCl2 → 2AgCl + Fe(NO3)2
+agno3+fecl3;3AgNO3 + FeCl3 → 3AgCl + Fe(NO3)3
+agno3+h2s;2AgNO3 + H2S → 2HNO3 + Ag2S
+agno3+na2so4;2AgNO3 + Na2SO4 → 2NaNO3 + Ag2SO4
+agno3+kcl;AgNO3 + KCl → AgCl + KNO3
+agno3+i2;AgNO3 + I2 → AgI + INO3
+agno3+cuo;2AgNO3 + CuO → Ag2O + Cu(NO3)2
+agno3+feo;2AgNO3 + FeO → Ag2O + Fe(NO3)2
+agno3+fecl2;3AgNO3 + FeCl2 → Ag + 2AgCl + Fe(NO3)3
+agno3+h2o+nh3+c2h5oh;2AgNO3 + H2O + 3NH3 + C2H5CHO → 2Ag + 2NH4NO3 + C2H5COONH4
+agno3+h2o+nh3+c3h7cho;2AgNO3 + H2O + 3NH3 + C3H7CHO → 2Ag + 2NH4NO3 + C3H7COONH4
+agno3+h2o+2nh3+c12h22o11;2AgNO3 + H2O + 2NH3 + C12H22O11 → 2Ag + NH4NO3 + C12H22O12
+agno3+c6h12o6+h2o+nh3;2AgNO3 + C6H12O6 + H2O + 2NH3 → 2Ag + 2NH4NO3 + C6H12O7
+agno3+c6h12o6;2AgNO3 + C6H12O6 + H2O + 3NH3 → 2Ag + 2NH4NO3 + C6H12O7NH4
+agno3+zn;2AgNO3 + Zn → 2Ag + Zn(NO3)2
+agno3+cucl2;2AgNO3 + CuCl2 → 2AgCl + Cu(NO3)2Nhiệt độ: nhiệt độ
+agno3+fe;3AgNO3 + Fe → 3Ag + Fe(NO3)3Nhiệt độ: nhiệt độ
+agno3+na3po4;3AgNO3 + Na3PO4 → 3NaNO3 + Ag3PO4Nhiệt độ: nhiệt độ
+agno3+nh4cl;AgNO3 + NH4Cl → AgCl + NH4NO3
+agno3+bacl2;2AgNO3 + BaCl2 → 2AgCl + Ba(NO3)2
+agno3+zncl2;2AgNO3 + ZnCl2 → 2AgCl + Zn(NO3)2Nhiệt độ: nhiệt độ
+agno3+cacl2;2AgNO3 + CaCl2 → 2AgCl + Ca(NO3)2Nhiệt độ: nhiệt độ
+agno3+k2so4;2AgNO3 + K2SO4 → 2KNO3 + Ag2SO4Nhiệt độ: nhiệt độ
+agno3+znbr2;2AgNO3 + ZnBr2 → 2AgBr + Zn(NO3)2
+agno3+nabr;AgNO3 + NaBr → AgBr + NaNO3
+agno3+h2o;AgNO3 + H2O → Ag + HNO3 + O2Điều kiện khác: điện phân dd
+agno3+h2o+nh3;AgNO3 + H2O + 3NH3 → NH4NO3 + (Ag(NH3)2)OHNhiệt độ: nhiệt độ
+agno3+bacl2;2AgNO3 + BaCl2 → 2AgCl + Ba(NO3)2 + BaCl2Nhiệt độ: nhiệt độ
+agno+ba(oh)2;2AgNO3 + Ba(OH)2 → Ag2O + Ba(NO3)2 + H2O
+agno3+ch3cho+nh3;4AgNO3 + 3CH3CHO + 5NH3 → 4Ag + 3NH4NO3 + 3CH3COONH4
+agno3+h2o+hcho+nh3;4AgNO3 + 2H2O + HCHO + 6NH3 → (NH4)2CO3 + 4Ag + 4NH4NO3
+agno3+h2o+nh3+hcooch3;2AgNO3 + H2O + 3NH3 + HCOOCH3 → 2Ag + 2NH4NO3 + NH4OCOOCH3
+agno3+h2o+nh3+hcooh;2AgNO3 + H2O + 4NH3 + HCOOH → (NH4)2CO3 + 2Ag + 2NH4NO3
+agno3+mg;2AgNO3 + Mg → 2Ag + Mg(NO3)2
+agno3+alcl3;3AgNO3 + AlCl3 → 3AgCl + Al(NO3)3
+agno3+koh;2AgNO3 + 2KOH → Ag2O + H2O + 2KNO3
+agno3+h2o+ch3cocl;AgNO3 + H2O + CH3COCl → AgCl + CH3COOH + HNO3
+agno3+nh3+c12h22o11;40AgNO3 + 14NH3 + 3C12H22O11 → 40Ag + 27NH4NO3 + 36CO2
+agno3+h2o+nh3+hcooc2h5;2AgNO3 + H2O + 3NH3 + HCOOC2H5 → 2Ag + 2NH4NO3 + C2H5OCOONH4
+agno3+koh;AgNO3 + KOH → AgOH + KNO3Nhiệt độ: -50°C Dung môi: etanol
+agno3+nh3+c12h22o11;40AgNO3 + 14NH3 + 3C12H22O11 → 40Ag + 27NH4NO3 + 36CO2
+(nh4)3po4+agno3;(NH4)3PO4 + 3AgNO3 → 3NH4NO3 + Ag3PO4
+agno3+h2o+nh3+hcoor;2AgNO3 + 6H2O + 3NH3 + HCOOR → 2Ag + 4NH4NO3 + NH4OCOCH3
+agno3+geh4;4AgNO3 + GeH4 → 4HNO3 + Ag4Ge
+agno3+mncl2;2AgNO3 + MnCl2 → 2AgCl + Mn(NO3)2
+agno3+mgcl2;2AgNO3 + MgCl2 → 2AgCl + Mg(NO3)2
+agno3+na2co3;AgNO3 + Na2CO3 → 2NaNO3 + Ag2CO3
+bacl2+ca(oh)2;BaCl2 + Ca(OH)2 → Ba(OH)2 + CaCl2
+ca(oh)2+nahco3;Ca(OH)2 + NaHCO3 → CaCO3 + H2O + NaOH
+ca(oh)2+co2;Ca(OH)2 + CO2 → CaCO3 + H2O
+ca(oh2)+cl2;Ca(OH)2 + Cl2 → CaOCl2 + H2O
+ca(oh)2+h2so4;Ca(OH)2 + H2SO4 → 2H2O + CaSO4
+ca(oh)2+so2;Ca(OH)2 + SO2 → H2O + CaSO3
+ca(oh)2+ch2ohch2cl;Ca(OH)2 + CH2OH-CH2Cl → 2H2O + CaCl2 + 2(CH2CH2)O
+ca(oh)2+nh4cl;Ca(OH)2 + 2NH4Cl → 2H2O + 2NH3 + CaCl2Nhiệt độ: nhiệt độ
+ca(oh)2+h2s;Ca(OH)2 + H2S → 2H2O + CaS
+ca(oh)2+k2co3;Ca(OH)2 + K2CO3 → CaCO3 + 2KOH
+ca(oh)2+cl2;6Ca(OH)2 + 6Cl2 → 6H2O + 5CaCl2 + Ca(ClO3)2
+ca(oh)2+cl2;2Ca(OH)2 + 2Cl2 → 2H2O + CaCl2 + Ca(OCl)2
+ca(oh)2+ba(hco3)2;Ca(OH)2 + Ba(HCO3)2 → CaCO3 + 2H2O + BaCO3
+ca(oh)2+nh4hco3;Ca(OH)2 + NH4HCO3 → CaCO3 + 2H2O + NH3
+ca(oh)2+naHf2;Ca(OH)2 + NaHF2 → CaF2 + H2O + NaOH
+ca(oh)2+2nh4no3;Ca(OH)2 + 2NH4NO3 → Ca(NO3)2 + 2H2O + 2NH3
+ca(oh)2+nh4h2po4;3Ca(OH)2 + 2NH4H2PO4 → Ca3(PO4)2 + 6H2O + 2NH3
+Ca(OH)2 → CaO + H2OĐiều kiện khác: ở nhiệt độ cao

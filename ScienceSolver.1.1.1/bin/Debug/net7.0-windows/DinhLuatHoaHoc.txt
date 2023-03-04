@@ -1,0 +1,4 @@
+1; Định luật bảo toàn năng lượng; Trong một phản ứng hóa học hoàn toàn. Khối lượng tiền chất bằng khối lượng hậu chất. Nói cách khác khối lượng được bảo toàn;(SUM)m(i)=(SUM)m(j)
+2; Định lý PH; Một hợp chất có tính axit hay tính bazo hat trung hòa. Chúng ta kiểm tra độ PH;PH=7 (Trung hòa)#PH>7(tính bazo)#PH<7(tính axit)
+3; Định lý bảo toàn nguyên tố; Trong một phương trình hóa học, số nguyên tử của các nguyên tố trước và sau phản ứng phải cân bằng; n(i)=n(f)
+

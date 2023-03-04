@@ -1,0 +1,6 @@
+11; Định Lý Pitago; Trong 1 tam giác vuông bất kì bình phương cạnh huyền .bằng tổng bình phương hai cạnh còn lại; a^2=b^2+c^2 # (a là cạnh huyền, b và c là các cạnh góc vuông)
+12; Định lý OClic; Trong hình học phẳng qua 1 điểm nằm ngoài 1 đường thẳng.chỉ có thể vẽ một đường thẳng đi qua điểm đó và song sog với đường thẳng đã cho;ERORR
+13; Bất đẳng thức Cauchy (Cosy);ERORR;(a1+a2+a3+...+an)>=Pow(a1*a2*a3*...*an,1/n) # và dbxrk a1=a2=a3=..=an;
+14; Bất đẳng thức BunhiaCopski; ERORR;(a1^2+a2^2+a3+...+an)*(b1^2+b2^2+...+bn^2)>=(a1+b1)^2+....+(an+bn)^2 # và dbxrk a1/b2 = a2/b2 = ... = an/bn
+17; Bất đẳng thức bậc hai;ERORR; (a1^2+a2^2) >= (2*a1*a2)
+15; Định lý Viet;ERORR; x1+x2=-b/a # x1*x2=c/a
